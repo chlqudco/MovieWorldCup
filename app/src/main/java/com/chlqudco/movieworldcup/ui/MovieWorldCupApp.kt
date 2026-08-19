@@ -66,6 +66,7 @@ fun MovieWorldCupApp(
 
     Scaffold(
         containerColor = Color.Transparent,
+        contentColor = MaterialTheme.colorScheme.onBackground,
         snackbarHost = { SnackbarHost(snackbarHostState) }
     ) { innerPadding ->
         AppBackground(modifier = Modifier.padding(innerPadding)) {
