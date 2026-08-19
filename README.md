@@ -2,6 +2,18 @@
 
 두 장의 영화 포스터 중 더 끌리는 작품을 반복해서 선택하고, 토너먼트 우승작과 나의 영화 취향을 발견하는 Android 앱입니다.
 
+## 실행 화면
+
+<p align="center">
+  <img src="docs/screenshots/home.png" width="30%" alt="홈 화면" />
+  <img src="docs/screenshots/setup.png" width="30%" alt="월드컵 설정 화면" />
+  <img src="docs/screenshots/match.png" width="30%" alt="영화 선택 경기 화면" />
+</p>
+
+<p align="center">
+  <sub>홈 · 월드컵 설정 · 영화 선택 경기</sub>
+</p>
+
 ## 주요 기능
 
 - TMDB 인기 영화 및 장르별 후보 조회
