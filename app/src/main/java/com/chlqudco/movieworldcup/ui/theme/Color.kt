@@ -2,10 +2,12 @@ package com.chlqudco.movieworldcup.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
-
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+val CinemaBlack = Color(0xFF090A0F)
+val CinemaSurface = Color(0xFF14151D)
+val CinemaSurfaceHigh = Color(0xFF20212B)
+val CinemaRed = Color(0xFFFF4F5E)
+val CinemaRedDark = Color(0xFF6B1D29)
+val CinemaGold = Color(0xFFFFC857)
+val CinemaWhite = Color(0xFFF7F4F2)
+val CinemaMuted = Color(0xFFAAA7B2)
+val CinemaOutline = Color(0xFF363743)
